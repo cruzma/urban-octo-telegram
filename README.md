@@ -8,8 +8,8 @@ For this project i have been tasked to ensure that html and css files meet all a
 
 Tasks completed:
 
-- (html) changed all necessary div elements to semantic elements.
+- (html) changed all necessary div elements to semantic elements
 - (html) added attribute descriptions to img elements
 - (html) added concise descrptive title to title tag
 - (css) consolidated code that was repeating
-- (css) reworked code and organized to follow semantic structure of HTML elements.
+- (css) reworked code and organized to follow semantic structure of HTML elements
